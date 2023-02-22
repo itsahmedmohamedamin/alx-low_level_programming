@@ -11,7 +11,7 @@ int main(void)
 {
 unsigned long fib1, fib2, fibsum;
 float tot_sum;
-while (true)
+while (1)
 {
 fibsum = fib1 + fib2;
 if (fibsum > 4000000)
